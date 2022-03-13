@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I am Fahad Shahzad
 
-<!--
-**ammarali0608/ammarali0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+### Student Life
 
-Here are some ideas to get you started:
+###  Professional Side:
+  
+  
+### My Work and projects
+    *
+### Social Media
+    
+### Blog Link    
+    
+### Portfolio    
+    
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I am working with:
+    
+    
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
+<br/>
+ ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
+![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
+
+![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786)  
