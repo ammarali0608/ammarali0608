@@ -23,15 +23,15 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Inglewood California !
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sukkur, Pakistan !
 
  :telescope: I love contributing to full stack applications.
 
- :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog as well as advanced data structures and algortithms.
+ :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog as well as advanced cybersecurity.
 
- :zap: In my free time, I spend time in the greenest of nature, contribute to open source, mentor inner-city youth in Los Angeles and CODE HARDER !
+ :zap: I spend time in the greenest of nature, contribute to open source, find bugs in systems and CODE HARDER !
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cayden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-noohani-b0b110192/)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ammar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-ali-noohani-b0b110192/)
 
 
 
